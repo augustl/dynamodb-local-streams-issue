@@ -1,0 +1,7 @@
+{
+    "name": "dynamodb-local-streams-issue",
+    "private": true,
+    "dependencies": {
+        "aws-sdk": "^2.1220.0"
+    }
+}

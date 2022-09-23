@@ -1,0 +1,7 @@
+version: '3'
+services:
+  dynamodb_test:
+    image: "amazon/dynamodb-local:1.18.0"
+    hostname: dynamodb-test
+    ports:
+      - 14222:8000
