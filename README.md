@@ -1,6 +1,6 @@
 # DynamoDB Local streams issue
 
-Hi, AWS team :) 
+Hi, DynamoDB team :) 
 
 This repo demonstrates an inconsistency between DynamoDB proper and DynamoDB local.
 
